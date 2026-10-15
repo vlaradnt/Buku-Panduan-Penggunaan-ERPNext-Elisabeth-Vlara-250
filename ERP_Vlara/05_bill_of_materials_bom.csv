@@ -1,0 +1,10 @@
+Finished Good Item,FG Quantity,Raw Material Item,Raw Material Name,Required Qty,Unit,Estimated Rate (IDR),Subtotal Cost (IDR)
+FG-MEJA-01,1,RM-KAYU-01,Papan Kayu Mahoni 120x60,1,Nos,85000,85000
+FG-MEJA-01,1,RM-BESI-01,Kaki Meja Besi Hollow,4,Nos,40000,160000
+FG-MEJA-01,1,RM-BAUT-01,Baut & Sekrup Meja M6,16,Nos,1500,24000
+FG-MEJA-01,1,RM-CAT-01,Cat Finishing Pelitur Kayu,0.5,Liter,60000,30000
+,,,,,,Total Biaya Bahan Baku (RM):,299000
+,,,,,,Biaya Operasional / Tenaga Kerja:,50000
+,,,,,,Total Estimasi HPP (BOM Cost):,349000
+,,,,,,Harga Jual Standar (Selling Rate):,650000
+,,,,,,Estimasi Laba Kotor per Unit:,301000

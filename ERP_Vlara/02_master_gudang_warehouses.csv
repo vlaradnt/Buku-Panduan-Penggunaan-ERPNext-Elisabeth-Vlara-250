@@ -1,0 +1,4 @@
+Warehouse Name,Warehouse Type,Description
+Gudang Bahan Baku,Transit / Store,Tempat penyimpanan bahan mentah (kayu, besi, baut, cat)
+Gudang Work In Progress (WIP),Work In Progress,Area produksi tempat bahan mentah dirakit menjadi barang jadi
+Gudang Barang Jadi,Finished Goods,Tempat penyimpanan produk jadi siap dikirim ke pelanggan

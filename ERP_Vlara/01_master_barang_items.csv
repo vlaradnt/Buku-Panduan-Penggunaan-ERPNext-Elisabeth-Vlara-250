@@ -1,0 +1,6 @@
+Item Code,Item Name,Item Group,Default Unit of Measure,Is Purchase Item,Is Sales Item,Standard Selling Rate,Standard Buying Rate,Description
+FG-MEJA-01,Meja Kerja Kayu Minimalis,Products,Nos,0,1,650000,0,Produk Jadi Meja Belajar/Kerja Kayu dengan Rangka Kaki Besi
+RM-KAYU-01,Papan Kayu Mahoni 120x60,Raw Material,Nos,1,0,0,85000,Papan kayu mahoni solid sudah diserut ukuran 120cm x 60cm
+RM-BESI-01,Kaki Meja Besi Hollow,Raw Material,Nos,1,0,0,40000,Kaki meja bahan besi hollow coating hitam tinggi 70cm
+RM-BAUT-01,Baut & Sekrup Meja M6,Raw Material,Nos,1,0,0,1500,Baut dan sekrup pengunci kayu dan rangka besi
+RM-CAT-01,Cat Finishing Pelitur Kayu,Raw Material,Liter,1,0,0,60000,Cat pelitur kayu warna natural gloss
